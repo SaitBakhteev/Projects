@@ -1,0 +1,988 @@
+[Root]
+Most Recent Package=TTM_metrol_LIES
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\САИТ\VB 6.0\TTM\New Folder
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\Windows\System32\comctl32.ocx=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+D:\САИТ\VB 6.0\TTM\Project1.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\comctl32.ocx=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\САИТ\VB 6.0\TTM\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comctl32.ocx=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Project1.CAB
+DepCabRun=Project1.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\САИТ\VB 6.0\TTM\New Folder
+ProjectFolder=D:\САИТ\VB 6.0\TTM
+ServerSideCab=
+File1=D:\САИТ\VB 6.0\TTM\New Folder\Project1.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=j:\New Folder (2)
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\Windows\System32\comctl32.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\САИТ\VB 6.0\TTM\Project1.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\comctl32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\САИТ\VB 6.0\TTM\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\САИТ\VB 6.0\TTM\Project1.exe=Yes
+
+[Package|Standard Setup Package 1|DepFile]
+DepCabFile=Project1.CAB
+DepCabRun=Project1.INF
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=Project1
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Project1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Project1]
+Icon1=Project1.exe
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=j:\New Folder (2)
+ProjectFolder=D:\САИТ\VB 6.0\TTM
+ServerSideCab=
+File1=j:\New Folder (2)\setup.exe
+File2=j:\New Folder (2)\Setup.Lst
+File3=j:\New Folder (2)\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\New Folder1
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\Windows\System32\comctl32.ocx=
+
+[Package|Standard Setup Package 2|Files Added]
+f:\vb 6.0\ttm\resources\1.jpg=
+f:\vb 6.0\ttm\resources\2.jpg=
+f:\vb 6.0\ttm\resources\3.jpg=
+f:\vb 6.0\ttm\resources\4.jpg=
+f:\vb 6.0\ttm\resources\5.jpg=
+f:\vb 6.0\ttm\resources\lines.txt=
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\comctl32.ocx=Yes
+F:\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Resources\1.jpg=Yes
+F:\VB 6.0\TTM\Resources\2.jpg=Yes
+F:\VB 6.0\TTM\Resources\3.jpg=Yes
+F:\VB 6.0\TTM\Resources\4.jpg=Yes
+F:\VB 6.0\TTM\Resources\5.jpg=Yes
+F:\VB 6.0\TTM\Resources\lines.txt=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+D:\САИТ\VB 6.0\TTM\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comctl32.ocx=$(WinSysPath)
+F:\VB 6.0\TTM\Project1.exe=$(AppPath)
+F:\VB 6.0\TTM\Resources\1.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\2.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\3.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\4.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\5.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\lines.txt=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+F:\VB 6.0\TTM\Project1.exe=No
+F:\VB 6.0\TTM\Resources\1.jpg=No
+F:\VB 6.0\TTM\Resources\2.jpg=No
+F:\VB 6.0\TTM\Resources\3.jpg=No
+F:\VB 6.0\TTM\Resources\4.jpg=No
+F:\VB 6.0\TTM\Resources\5.jpg=No
+F:\VB 6.0\TTM\Resources\lines.txt=No
+
+[Package|Standard Setup Package 2|DepFile]
+DepCabFile=TTM
+DepCabRun=TTM
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=TTM
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=TTM
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|TTM]
+Icon1=TTM.exe
+Title1=TTM
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=d:\New Folder1
+ProjectFolder=F:\VB 6.0\TTM
+ServerSideCab=
+File1=d:\New Folder1\setup.exe
+File2=d:\New Folder1\Setup.Lst
+File3=d:\New Folder1\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=d:\New Folder (2)
+
+[Package|Dep File 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 2|Files Found]
+
+[Package|Dep File 2|Files Released]
+
+[Package|Dep File 2|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|Dep File 2|Out-of-Date Dependency Information]
+C:\Windows\System32\comctl32.ocx=
+
+[Package|Dep File 2|Files Added]
+f:\vb 6.0\ttm\resources\1.jpg=
+f:\vb 6.0\ttm\resources\2.jpg=
+f:\vb 6.0\ttm\resources\3.jpg=
+f:\vb 6.0\ttm\resources\4.jpg=
+f:\vb 6.0\ttm\resources\5.jpg=
+f:\vb 6.0\ttm\resources\lines.txt=
+
+[Package|Dep File 2|Files Removed]
+
+[Package|Dep File 2|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+F:\VB 6.0\TTM\Resources\1.jpg=Yes
+F:\VB 6.0\TTM\Resources\2.jpg=Yes
+F:\VB 6.0\TTM\Resources\3.jpg=Yes
+F:\VB 6.0\TTM\Resources\4.jpg=Yes
+F:\VB 6.0\TTM\Resources\5.jpg=Yes
+F:\VB 6.0\TTM\Resources\lines.txt=Yes
+D:\По работе\VB\Программы\TTM\Project1.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\COMCTL32.OCX=Yes
+
+[Package|Dep File 2|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 2|Install Locations]
+D:\САИТ\VB 6.0\TTM\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\VB 6.0\TTM\Project1.exe=$(AppPath)
+F:\VB 6.0\TTM\Resources\1.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\2.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\3.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\4.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\5.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\lines.txt=$(AppPath)
+D:\По работе\VB\Программы\TTM\Project1.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMCTL32.OCX=$(WinSysPath)
+
+[Package|Dep File 2|Configure Shared Files]
+Applicable=Yes
+D:\САИТ\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Resources\1.jpg=Yes
+F:\VB 6.0\TTM\Resources\2.jpg=Yes
+F:\VB 6.0\TTM\Resources\3.jpg=Yes
+F:\VB 6.0\TTM\Resources\4.jpg=Yes
+F:\VB 6.0\TTM\Resources\5.jpg=Yes
+F:\VB 6.0\TTM\Resources\lines.txt=Yes
+
+[Package|Dep File 2|DepFile]
+DepCabFile=Project1.CAB
+DepCabRun=Project1.INF
+
+[Package|Dep File 2|Distribution]
+Type=single
+Size=1.44 MB
+Title=TTM
+
+[Package|Dep File 2|IconGroups]
+Group0=Project1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Dep File 2|Project1]
+Icon1=Project1.exe
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 2|Package]
+PackageFolder=d:\New Folder (2)
+ProjectFolder=D:\По работе\VB\Программы\TTM
+ServerSideCab=
+File1=d:\New Folder (2)\Project1.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\New Folder (2)
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+lines.txt=
+5.jpg=
+4.jpg=
+3.jpg=
+2.jpg=
+1.jpg=
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+C:\Windows\System32\comctl32.ocx=
+C:\Windows\SysWOW64\comctl32.ocx=
+C:\Windows\SysWOW64\MSSTDFMT.DLL=
+
+[Package|Standard Setup Package 3|Files Added]
+d:\по работе\vb\программы\ttm\1.jpg=
+d:\по работе\vb\программы\ttm\2.jpg=
+d:\по работе\vb\программы\ttm\3.jpg=
+d:\по работе\vb\программы\ttm\4.jpg=
+d:\по работе\vb\программы\ttm\5.jpg=
+d:\по работе\vb\программы\ttm\lines.txt=
+D:\TTM\1.jpg=
+D:\TTM\2.jpg=
+D:\TTM\3.jpg=
+D:\TTM\4.jpg=
+D:\TTM\5.jpg=
+D:\TTM\6.jpg=
+D:\TTM\7.jpg=
+D:\TTM\8.jpg=
+D:\TTM\9.jpg=
+D:\TTM\lines.txt=
+D:\TTM\lines1.txt=
+D:\TTM\lines2.txt=
+D:\TTM\lines3.txt=
+
+[Package|Standard Setup Package 3|Files Removed]
+
+[Package|Standard Setup Package 3|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\COMCTL32.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\По работе\VB\Программы\TTM\Project1.exe=Yes
+D:\По работе\VB\Программы\TTM\1.jpg=Yes
+D:\По работе\VB\Программы\TTM\2.jpg=Yes
+D:\По работе\VB\Программы\TTM\3.jpg=Yes
+D:\По работе\VB\Программы\TTM\4.jpg=Yes
+D:\По работе\VB\Программы\TTM\5.jpg=Yes
+D:\По работе\VB\Программы\TTM\lines.txt=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+D:\САИТ\VB 6.0\TTM\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\VB 6.0\TTM\Project1.exe=$(AppPath)
+F:\VB 6.0\TTM\Resources\1.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\2.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\3.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\4.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\5.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\lines.txt=$(AppPath)
+D:\По работе\VB\Программы\TTM\Project1.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMCTL32.OCX=$(WinSysPath)
+D:\TTM\Project1.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\TTM\1.jpg=$(AppPath)
+D:\TTM\2.jpg=$(AppPath)
+D:\TTM\3.jpg=$(AppPath)
+D:\TTM\4.jpg=$(AppPath)
+D:\TTM\5.jpg=$(AppPath)
+D:\TTM\6.jpg=$(AppPath)
+D:\TTM\7.jpg=$(AppPath)
+D:\TTM\8.jpg=$(AppPath)
+D:\TTM\9.jpg=$(AppPath)
+D:\TTM\lines.txt=$(AppPath)
+D:\TTM\lines1.txt=$(AppPath)
+D:\TTM\lines2.txt=$(AppPath)
+D:\TTM\lines3.txt=$(AppPath)
+D:\По работе\VB\Программы\TTM\1.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\2.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\3.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\4.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\5.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\lines.txt=$(AppPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+D:\САИТ\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Resources\1.jpg=Yes
+F:\VB 6.0\TTM\Resources\2.jpg=Yes
+F:\VB 6.0\TTM\Resources\3.jpg=Yes
+F:\VB 6.0\TTM\Resources\4.jpg=Yes
+F:\VB 6.0\TTM\Resources\5.jpg=Yes
+F:\VB 6.0\TTM\Resources\lines.txt=Yes
+D:\TTM\Project1.exe=Yes
+D:\TTM\1.jpg=Yes
+D:\TTM\2.jpg=Yes
+D:\TTM\3.jpg=Yes
+D:\TTM\4.jpg=Yes
+D:\TTM\5.jpg=Yes
+D:\TTM\6.jpg=Yes
+D:\TTM\7.jpg=Yes
+D:\TTM\8.jpg=Yes
+D:\TTM\9.jpg=Yes
+D:\TTM\lines.txt=Yes
+D:\TTM\lines1.txt=Yes
+D:\TTM\lines2.txt=Yes
+D:\TTM\lines3.txt=Yes
+D:\По работе\VB\Программы\TTM\Project1.exe=Yes
+D:\По работе\VB\Программы\TTM\1.jpg=Yes
+D:\По работе\VB\Программы\TTM\2.jpg=Yes
+D:\По работе\VB\Программы\TTM\3.jpg=Yes
+D:\По работе\VB\Программы\TTM\4.jpg=Yes
+D:\По работе\VB\Программы\TTM\5.jpg=Yes
+D:\По работе\VB\Программы\TTM\lines.txt=Yes
+
+[Package|Standard Setup Package 3|DepFile]
+DepCabFile=Project1.CAB
+DepCabRun=Project1.INF
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=1.44 MB
+Title=TTM
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=Project1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|Project1]
+Icon1=Project1.exe
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=d:\New Folder (2)
+ProjectFolder=D:\По работе\VB\Программы\TTM
+ServerSideCab=
+File1=d:\New Folder (2)\setup.exe
+File2=d:\New Folder (2)\Setup.Lst
+File3=d:\New Folder (2)\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|TTM|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\TTM_exe
+
+[Package|TTM|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TTM|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TTM|Files Found]
+1.jpg=D:\По работе\VB\Программы\TTM\Resources\1.jpg
+
+[Package|TTM|Files Released]
+
+[Package|TTM|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|TTM|Out-of-Date Dependency Information]
+C:\Windows\System32\comctl32.ocx=
+C:\Windows\SysWOW64\comctl32.ocx=
+C:\Windows\SysWOW64\MSSTDFMT.DLL=
+
+[Package|TTM|Files Added]
+1.jpg=
+2.jpg=
+3.jpg=
+4.jpg=
+5.jpg=
+lines.txt=
+
+[Package|TTM|Files Removed]
+
+[Package|TTM|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+D:\По работе\VB\Программы\TTM\Project1.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\comctl32.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\По работе\VB\Программы\TTM\Resources\1.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\2.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\3.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\4.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\5.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\lines.txt=Yes
+
+[Package|TTM|Configure Registry Files]
+Applicable=No
+
+[Package|TTM|Configure Remote Servers]
+Applicable=No
+
+[Package|TTM|Install Locations]
+D:\САИТ\VB 6.0\TTM\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\VB 6.0\TTM\Project1.exe=$(AppPath)
+F:\VB 6.0\TTM\Resources\1.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\2.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\3.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\4.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\5.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\lines.txt=$(AppPath)
+D:\По работе\VB\Программы\TTM\Project1.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\comctl32.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\По работе\VB\Программы\TTM\Resources\1.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\2.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\3.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\4.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\5.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\lines.txt=$(AppPath)
+
+[Package|TTM|Configure Shared Files]
+Applicable=Yes
+D:\САИТ\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Resources\1.jpg=Yes
+F:\VB 6.0\TTM\Resources\2.jpg=Yes
+F:\VB 6.0\TTM\Resources\3.jpg=Yes
+F:\VB 6.0\TTM\Resources\4.jpg=Yes
+F:\VB 6.0\TTM\Resources\5.jpg=Yes
+F:\VB 6.0\TTM\Resources\lines.txt=Yes
+D:\По работе\VB\Программы\TTM\Project1.exe=Yes
+D:\По работе\VB\Программы\TTM\Resources\1.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\2.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\3.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\4.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\5.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\lines.txt=Yes
+
+[Package|TTM|DepFile]
+DepCabFile=Project1.CAB
+DepCabRun=Project1.INF
+
+[Package|TTM|Distribution]
+Type=single
+Size=1.44 MB
+Title=TTM
+
+[Package|TTM|IconGroups]
+Group0=Project1
+PrivateGroup0=True
+Parent0=$(Programs)
+Group1=TTM_exe
+PrivateGroup1=False
+Parent1=$(Programs)
+
+[Package|TTM|Project1]
+Icon1=Project1.exe
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TTM|Package]
+PackageFolder=d:\TTM_exe
+ProjectFolder=D:\По работе\VB\Программы\TTM
+ServerSideCab=
+File1=d:\TTM_exe\setup.exe
+File2=d:\TTM_exe\Setup.Lst
+File3=d:\TTM_exe\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|TTM_metrol_LIES|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\TTM_metrol_LIES
+
+[Package|TTM_metrol_LIES|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TTM_metrol_LIES|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TTM_metrol_LIES|Files Found]
+1.jpg=D:\По работе\VB\Программы\TTM\Resources\1.jpg
+
+[Package|TTM_metrol_LIES|Files Released]
+
+[Package|TTM_metrol_LIES|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|TTM_metrol_LIES|Out-of-Date Dependency Information]
+C:\Windows\System32\comctl32.ocx=
+C:\Windows\SysWOW64\comctl32.ocx=
+C:\Windows\SysWOW64\MSSTDFMT.DLL=
+C:\Windows\SysWOW64\TABCTL32.OCX=
+
+[Package|TTM_metrol_LIES|Files Added]
+d:\projects\projects_vb-main\ttm_development\1.jpg=
+d:\projects\projects_vb-main\ttm_development\2.jpg=
+d:\projects\projects_vb-main\ttm_development\3.jpg=
+d:\projects\projects_vb-main\ttm_development\4.jpg=
+d:\projects\projects_vb-main\ttm_development\5.jpg=
+d:\projects\projects_vb-main\ttm_development\lines.txt=
+d:\projects\projects_vb-main\ttm_development\6.jpg=
+d:\projects\projects_vb-main\ttm_development\9.jpg=
+d:\projects\projects_vb-main\ttm_development\7.jpg=
+d:\projects\projects_vb-main\ttm_development\8.jpg=
+
+[Package|TTM_metrol_LIES|Files Removed]
+
+[Package|TTM_metrol_LIES|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\comctl32.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Projects\Projects_VB-main\TTM_development\Project1.exe=Yes
+D:\Projects\Projects_VB-main\TTM_development\1.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\2.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\3.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\4.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\5.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\lines.txt=Yes
+D:\Projects\Projects_VB-main\TTM_development\6.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\9.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\7.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\8.jpg=Yes
+
+[Package|TTM_metrol_LIES|Configure Registry Files]
+Applicable=No
+
+[Package|TTM_metrol_LIES|Configure Remote Servers]
+Applicable=No
+
+[Package|TTM_metrol_LIES|Install Locations]
+D:\САИТ\VB 6.0\TTM\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\VB 6.0\TTM\Project1.exe=$(AppPath)
+F:\VB 6.0\TTM\Resources\1.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\2.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\3.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\4.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\5.jpg=$(AppPath)
+F:\VB 6.0\TTM\Resources\lines.txt=$(AppPath)
+D:\По работе\VB\Программы\TTM\Project1.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\comctl32.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\По работе\VB\Программы\TTM\Resources\1.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\2.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\3.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\4.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\5.jpg=$(AppPath)
+D:\По работе\VB\Программы\TTM\Resources\lines.txt=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\Project1.exe=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\1.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\2.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\3.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\4.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\5.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\lines.txt=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\6.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\9.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\7.jpg=$(AppPath)
+D:\Projects\Projects_VB-main\TTM_development\8.jpg=$(AppPath)
+
+[Package|TTM_metrol_LIES|Configure Shared Files]
+Applicable=Yes
+D:\САИТ\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Project1.exe=Yes
+F:\VB 6.0\TTM\Resources\1.jpg=Yes
+F:\VB 6.0\TTM\Resources\2.jpg=Yes
+F:\VB 6.0\TTM\Resources\3.jpg=Yes
+F:\VB 6.0\TTM\Resources\4.jpg=Yes
+F:\VB 6.0\TTM\Resources\5.jpg=Yes
+F:\VB 6.0\TTM\Resources\lines.txt=Yes
+D:\По работе\VB\Программы\TTM\Project1.exe=Yes
+D:\По работе\VB\Программы\TTM\Resources\1.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\2.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\3.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\4.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\5.jpg=Yes
+D:\По работе\VB\Программы\TTM\Resources\lines.txt=Yes
+D:\Projects\Projects_VB-main\TTM_development\Project1.exe=Yes
+D:\Projects\Projects_VB-main\TTM_development\1.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\2.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\3.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\4.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\5.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\lines.txt=Yes
+D:\Projects\Projects_VB-main\TTM_development\6.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\9.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\7.jpg=Yes
+D:\Projects\Projects_VB-main\TTM_development\8.jpg=Yes
+
+[Package|TTM_metrol_LIES|DepFile]
+DepCabFile=Project1.CAB
+DepCabRun=Project1.INF
+
+[Package|TTM_metrol_LIES|Distribution]
+Type=single
+Size=1.44 MB
+Title=TTM_metrol_LIES
+
+[Package|TTM_metrol_LIES|IconGroups]
+Group0=Project1
+PrivateGroup0=True
+Parent0=$(Programs)
+Group1=TTM_exe
+PrivateGroup1=False
+Parent1=$(Programs)
+
+[Package|TTM_metrol_LIES|Project1]
+Icon1=Project1.exe
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TTM_metrol_LIES|Package]
+PackageFolder=d:\TTM_metrol_LIES
+ProjectFolder=D:\Projects\Projects_VB-main\TTM_development
+ServerSideCab=
+File1=d:\TTM_metrol_LIES\setup.exe
+File2=d:\TTM_metrol_LIES\Setup.Lst
+File3=d:\TTM_metrol_LIES\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
