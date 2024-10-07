@@ -1,0 +1,16 @@
+Form1 = 50, 50, 967, 438, , 25, 25, 1009, 413, C
+Interface = 75, 75, 992, 463, 
+Define_of_classes = 0, 0, 0, 0, C
+Main_variables = 175, 175, 1053, 610, 
+regression_calculation = 0, 0, 0, 0, C
+File_work = 75, 75, 953, 510, 
+Data_of_file = 100, 100, 978, 535, 
+Read_files = 0, 0, 0, 0, C
+Graphic = 125, 125, 1003, 560, 
+Save_files = 0, 0, 0, 0, C
+Form2 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Form3 = 134, 134, 1104, 507, , 125, 125, 1003, 560, C
+Procedures = 0, 0, 0, 0, C
+Calculation_of_peak = 150, 150, 1028, 585, Z
+Vyborka1 = 0, 0, 0, 0, C
+Class1 = 0, 0, 0, 0, C
